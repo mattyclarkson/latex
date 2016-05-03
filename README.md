@@ -12,11 +12,11 @@ building LaTeX documents. Use `latexmk` in your build script.
 
 ## Packages
 
-  - [`make`](https://www.archlinux.org/groups/x86_64/make/)
-  - [`git`](https://www.archlinux.org/groups/x86_64/git/)
+  - [`make`](https://www.archlinux.org/core/x86_64/make/)
+  - [`git`](https://www.archlinux.org/extra/x86_64/git/)
   - [`texlive-most`](https://www.archlinux.org/groups/x86_64/texlive-most/)
   - [`texlive-lang`](https://www.archlinux.org/groups/x86_64/texlive-lang/)
-  - [`ghostscript`](https://www.archlinux.org/groups/x86_64/ghostscript/)
+  - [`ghostscript`](https://www.archlinux.org/extra/x86_64/ghostscript/)
 
 ## GitLab
 
