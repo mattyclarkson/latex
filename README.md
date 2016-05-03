@@ -8,7 +8,7 @@ installs the
 [`texlive-lang`](https://www.archlinux.org/groups/x86_64/texlive-lang/) packages
 to provide the latest
 [TeX Live](https://wiki.archlinux.org/index.php/TeX_Live) environment for
-building LaTeX documents. Use `pdflatex` in your build script.
+building LaTeX documents. Use `latexmk` in your build script.
 
 ## Packages
 
